@@ -1,14 +1,14 @@
-安装python2.7
-安装pyhook
+瀹夎python2.7
+瀹夎pyhook
 
-安装pypwin32
+瀹夎pypwin32
 pip install pypiwin32
 
-安装pymouse
+瀹夎pymouse
 pip install pymouse
 
-安装Pillow
+瀹夎Pillow
 pip install Pillow
 
-安装imagehash
+瀹夎imagehash
 pip install imagehash
